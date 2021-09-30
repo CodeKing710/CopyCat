@@ -1,0 +1,12 @@
+/* GLOBALS */
+/* :root {
+    Can retrieve globals with var(VAR_NAME)
+    
+} */
+* {box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box}
+
+/* MAIN PAGE */
+html, body {
+    min-width: 100%;
+    margin: 0; padding: 0;
+}
